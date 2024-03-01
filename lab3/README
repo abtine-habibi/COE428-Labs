@@ -1,0 +1,8 @@
+Everything Worked! 
+
+Analysis of Sorting Algorithims: 
+
+1. Merge Sort: 
+The best case for mergeSort was numbers from 0-9 resulting in 19 comparisons, 34 swaps, and 15 copy. The worst case was numbers from 9-0 resulting in 15 comparisons, 34 swaps, and 19 copy. The average case was 7 random and some reoccuring numbers, resulting in 14 comparisons, 20 swaps, and 6 copy. Through analyzation the time complexity is the same as it produces a recursion tree with O(nlgn)
+2. Insertion Sort: 
+Same values were used as mergeSort. The best case had 0 comparisons, 0 swaps, and 10 copy. The worst case had 45 comparisons, 45 swaps, and 10 copy. The average had 12 comparisons, 7 swaps, and 7 copy operations. The f(n) is sandwiched inbetween O(n^2) and Omega(n).

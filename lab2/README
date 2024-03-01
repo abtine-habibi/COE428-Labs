@@ -1,0 +1,17 @@
+Everything worked
+
+Question 1: 
+
+1. When towers(5,2,3) the first recursive call to be invoked is towers(4,2,1). 
+
+2. towers will be called 5 times.
+
+3. The first disk moves from 2 to 3.
+
+4. the second recursive call is towers(0,3,2). 
+
+Question 2:
+
+It outputs 255 lines. 
+
+towersMain2 was fixed in new submission. 
